@@ -56,7 +56,7 @@ admin.site.register(Student,StudentAdmin)
 ![std](https://user-images.githubusercontent.com/120539398/232966094-411cb8a1-83cc-45e6-bce3-a782548bd137.png)
 
 ### clientoutput
-![Students](https://user-images.githubusercontent.com/120539398/232965996-05c30470-161f-4a0c-94bc-461c3afeed14.png
+![Students](https://user-images.githubusercontent.com/120539398/232966518-2567ac30-055b-4b6c-8912-3583b82c3441.png)
 
 ## RESULT
 Thus the code has been executed successfully.
